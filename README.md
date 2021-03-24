@@ -3,6 +3,8 @@ Useful online tools for webdevelopers
 
 https://waterfaller.dev - tasks that boost page speed and core web vitals
 
+https://meowni.ca/font-style-matcher/ - Font style matcher; minimize FOUT effect (fallback for WebFont)
+
 https://caniuse.com - Can I use... Support tables for HTML5, CSS3, etc
 
 https://www.diffchecker.com - diff tool to compare text differences between two text files
