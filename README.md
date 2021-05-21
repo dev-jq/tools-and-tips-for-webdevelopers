@@ -3,8 +3,6 @@ Useful online tools for webdevelopers
 
 https://waterfaller.dev - tasks that boost page speed and core web vitals
 
-https://meowni.ca/font-style-matcher/ - Font style matcher; minimize FOUT effect (fallback for WebFont)
-
 https://caniuse.com - Can I use... Support tables for HTML5, CSS3, etc
 
 https://www.diffchecker.com - diff tool to compare text differences between two text files
@@ -14,8 +12,6 @@ https://www.10bestdesign.com/dirtymarkup - HTML / CSS / JS code beautifier
 https://developers.google.com/speed/pagespeed/insights - analyzes the content of the website and tells you how to speed it up
 
 https://google-webfonts-helper.herokuapp.com/fonts -  way to Self-Host Google Fonts
-
-https://tinypng.com - .png / .jpg images compression
 
 https://www.responsivebreakpoints.com - easily generate the optimal responsive image dimensions
 
@@ -31,12 +27,66 @@ https://cantunsee.space - measure attention to detail; Game: select the design t
 
 https://codyhouse.co - Web Design Made Easier
 
-https://fontello.com - icons font generator
-
-https://icomoon.io - build and use your own icon packs in many different formats including SVG, Polymer, PDF, XAML, CSH, icon font with ligatures, or good old PNG/CSS sprites
-
 http://howtocenterincss.com- how to CENTER in CSS
 
 https://goodui.org - Good UI: improve Your UI With Winning & Losing A/B Tests
 
 https://uigradients.com - gradients
+
+https://fontello.com - icons font generator
+
+https://icomoon.io - build and use your own icon packs in many different formats including SVG, Polymer, PDF, XAML, CSH, icon font with ligatures, or good old PNG/CSS sprites
+
+http://fontfamily.io - compatibility tables for default local fonts
+
+https://www.cssfontstack.com/ - collection of web safe CSS font stacks
+
+https://v-fonts.com - resource for finding and trying variable fonts
+
+https://www.fontsquirrel.com/tools/webfont-generator - Webfont Generator (woff/woff2)
+
+https://transfonter.org/ - modern and simple css @font-face generator 
+
+https://meowni.ca/font-style-matcher/ - Font style matcher
+
+https://www.industrialempathy.com/perfect-ish-font-fallback/ - Automatic font fallback matching
+
+https://jakearchibald.github.io/svgomg/ - SVG optimizer
+
+https://tinypng.com - .png / .jpg images compression
+
+https://ezgif.com/optimize  - .gif optimizer
+
+https://lokeshdhakar.com/projects/color-thief/#drag-drop - dominant color from image
+
+https://www.giftofspeed.com/gzip-test/ - gzip / brotli optimization test
+
+https://freecodetools.org/ogp/ - OG tags generator
+
+https://wave.webaim.org/ - Web Accessibility Evaluation Tool online
+
+http://www.outlinenone.com - about property: {outline:none;}
+
+https://csstriggers.com/ - CSS triggers cost
+
+https://bundlephobia.com/ - cost of adding a npm package to your bundle
+
+https://estimator.dev/  - find out how much turning on modern JS could save
+
+https://polyfill.io/v3/ - returns only the polyfills that are needed by the requesting browser
+
+https://jsbench.me - JS performance benchamark
+
+http://latentflip.com/loupe/ - visualisation to help you understand how JavaScript's call stack/event loop/callback queue interact with each other
+
+https://requestmap.webperf.tools/  - Request Map Generator
+
+https://animate.style/ - CSS animation
+
+https://greensock.com/gsap/ - JavaScript animation for the modern web
+
+https://lighthouse-metrics.com/ - global performance metrics
+
+https://www.performancebudget.io/ - Performance Budget Calculator
+
+https://treo.sh/sitespeed - Find out how fast your website is for real users
