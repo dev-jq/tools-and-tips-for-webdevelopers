@@ -132,20 +132,30 @@ https://getcssscan.com/css-box-shadow-examples **
 https://simplecss.eu
 
 # Testing Tools:
+
 https://pagespeed.web.dev
+
 https://www.webpagetest.org/webvitals
+
 https://speedvitals.com/
+
 https://waterfaller.dev
+
 https://uitest.com/analysis/ - 80+ tools links
 
 
 # Frontend optimization blogs:
+
 https://blog.speedvitals.com/category/optimization/
+
 https://kinsta.com/blog/optimize-css/
+
 https://almanac.httparchive.org/en/2021/performance
 
 
 # Articles:
 https://medium.com/tag/front-end-development
+
 https://flaviocopes.com/debugging/ - Debugging JavaScript
+
 https://flaviocopes.com/debugging/ - Debugging JavaScript
