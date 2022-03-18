@@ -1,4 +1,4 @@
-# online-tools-for-webdevelopers
+# Online tools for webdevelopers
 Useful online tools for webdevelopers
 
 https://waterfaller.dev - tasks that boost page speed and core web vitals
@@ -95,4 +95,57 @@ https://treo.sh/sitespeed - Find out how fast your website is for real users
 
 https://griddy.io - Learn the CSS Grid!
 
+https://web.dev/learn/css/
 
+https://www.patterns.dev
+
+https://smalldev.tools **
+
+https://accordionslider.com
+
+https://www.bestcssbuttongenerator.com
+
+https://wweb.dev/resources/css-separator-generator/
+
+http://www.menucool.com/css-menu
+
+https://animista.net/play/basic - css animations effects **
+
+https://shrthnd.volume7.io - converts CSS properties into shorthand
+
+https://webcode.tools - The ultimate tools for web development **
+
+https://mobilepalette.colorion.co
+
+https://epoch.vercel.app - convert the millisecond value to a datetime
+
+https://wpo-checklist.firebaseapp.com - WEB PERFORMANCE CHECKLIST
+
+https://free-for.dev/
+
+https://smalldev.tools/placeholder-image-generator-online **
+
+https://10015.io -  all-in-one toolbox **
+
+https://getcssscan.com/css-box-shadow-examples **
+
+https://simplecss.eu
+
+# Testing Tools:
+https://pagespeed.web.dev
+https://www.webpagetest.org/webvitals
+https://speedvitals.com/
+https://waterfaller.dev
+https://uitest.com/analysis/ - 80+ tools links
+
+
+# Frontend optimization blogs:
+https://blog.speedvitals.com/category/optimization/
+https://kinsta.com/blog/optimize-css/
+https://almanac.httparchive.org/en/2021/performance
+
+
+# Articles:
+https://medium.com/tag/front-end-development
+https://flaviocopes.com/debugging/ - Debugging JavaScript
+https://flaviocopes.com/debugging/ - Debugging JavaScript
