@@ -1,6 +1,6 @@
 # Awesome resources for Front-End and Web Developers :star_struck:
 
-### :point_right: My [BIG list of online tools](https://github.com/jq91/tools-and-tips-for-webdevelopers/blob/main/online-tools)
+### :point_right: My [BIG list of online tools](https://github.com/jq91/tools-and-tips-for-webdevelopers/blob/main/online-tools.md)
 
 
 ## Frontend optimization blogs:
